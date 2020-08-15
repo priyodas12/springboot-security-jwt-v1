@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spingboot-security-jwt-v1
+    username: priyo
+
+server:
+  port: 9292
+
+jwt:
+  secret: Abc@123
+
+
+
